@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+Resources:
+https://estesrockets.com/edu-for-the-educator
 
-You can use the [editor on GitHub](https://github.com/ashwani-rathee/ROCKETS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+https://estesrockets.com/product-category/miscellaneous/publications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://estesrockets.com/wp-content/uploads/Educator/2845_Classic_Collection_TR-TN.pdf
 
-### Markdown
+https://estesrockets.com/wp-content/uploads/Educator/Estes_Model_Rocketry_Technical_Manual.pdf
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Quest Aerospace website &#8211; remember that it will &#8220;time out&#8221; after you visit since it assumes you are shopping. Simply launch a new browser window or close your existing window and then relaunch to get back in if you have access problems. Visit the &#8220;Resource Central&#8221; page and then visit all the pages listed there:
 
-```markdown
-Syntax highlighted code block
+http://www.questaerospace.com/
 
-# Header 1
-## Header 2
-### Header 3
+http://www.questaerospace.com/q_rcentral.asp
 
-- Bulleted
-- List
+http://www.questaerospace.com/rcentral-edresources.asp
 
-1. Numbered
-2. List
+Tons of info on the non-profit NAR (National Association of Rocketry) website. You will want to look over ALL of the sections and the dozens of documents full of info:
 
-**Bold** and _Italic_ and `Code` text
+http://www.nar.org/
 
-[Link](url) and ![Image](src)
-```
+http://www.nar.org/teacher.html
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+http://www.nar.org/safety.html
 
-### Jekyll Themes
+http://www.nar.org/SandT/NARenglist.shtml
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashwani-rathee/ROCKETS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+NAR launch calendar and list of local NAR clubs:
 
-### Support or Contact
+http://www.nar.org/NARcalend.shtml
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+http://www.nar.org/NARseclist.php
+
+How to report a motor failure:
+
+http://www.nar.org/NARmessform.html
+
+See attached document for an explanation of how standard black powder model rocket motors can fail.
+
+Apogee Rockets including education info and their &#8220;Hibachi Effect&#8221; explanation (click your way though the many, many links and sub-pages):
+
+http://www.apogeerockets.com/index.asp
+
+http://www.apogeerockets.com/education/newsletter28.asp
+
+Aerotech resource library including motor information and delay modification instructions:
+
+http://www.aerotech-rocketry.com/
+
+http://www.aerotech-rocketry.com/customersite/resource_library/resource_library.html
+
+http://www.aerotech-rocketry.com/customersite/resource_library/Instructions/RDK_Instructions/rms_delay_mod_inst.pdf
+
+http://www.aerotech-rocketry.com/customersite/resource_library/Catalogs_Flyers_Data_Sheets/hdk_x-ref.pdf
+
+http://www.aerotech-rocketry.com/customersite/resource_library/Catalogs_Flyers_Data_Sheets/aeroTech_delay_lengths.pdf
+
+Websites with old catalogs, books, reports and instructions sheets and plans of old Model Rockets:
+
+http://www.spacemodeling.org/JimZ/index.htm
+
+http://ninfinger.org/rockets/rockets.html
+
+http://www.rocketshoppe.com/
+
+What are the limits that define a Model Rocket vs. a High Power Rocket?:
+
+http://www.doug79.com/stuff/HPR_metric9c.pdf
+UPDATED WITH 2009 FAA regulation changes that simply eliminate the entire &#8220;Large Model Rocket&#8221;/&#8221;LMR&#8221; categlry as it is now part of &#8220;Model Rocket&#8221; and no notification is required for &#8220;Model Rockets&#8221;.
+
+Why is the term "cato" used for motor failures?:
+http://www.geocities.com/fredeshecter/cato_origin.pdf
+
+Centuri Design Manual:
+http://www.spacemodeling.org/JimZ/manuals/cmrdm.pdf
